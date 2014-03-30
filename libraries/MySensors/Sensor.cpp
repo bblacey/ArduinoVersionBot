@@ -12,7 +12,6 @@
 
 #include "Sensor.h"
 
-
 Sensor::Sensor(uint8_t _cepin, uint8_t _cspin) : RF24(_cepin, _cspin) {
 	isRelay = false;
 }
