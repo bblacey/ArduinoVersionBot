@@ -6,6 +6,6 @@
 #ifndef Sendor_h
 #define Sensor_h
 
-#define LIBRARY_VERSION "1.1b2 (80b3684)"
+#define LIBRARY_VERSION "1.1b2 (a8e6b25)"
 
 #endif
